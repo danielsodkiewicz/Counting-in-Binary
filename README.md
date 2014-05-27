@@ -21,5 +21,4 @@ Example outputw of the functions
 01000
 01001
 01010
-Program ended with exit code: 0
 ```
